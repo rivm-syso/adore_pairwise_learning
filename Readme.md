@@ -14,7 +14,7 @@ You can then run all of the code blocks in **experiments.ipynb** to reproduce th
 The predictions for all possible (species, chemical, duration) triplets are saved in the file **predictions.csv**. 
 This file is also uploaded to [Zenodo](https://doi.org/10.5281/zenodo.14449272) and can be downloaded from there.
 
-##
+## Interactive SSD demo
 Viewing demo of interactive SSD's in GitHub pages at: https://rivm-syso.github.io/adore_pairwise_learning/interactive_ssd_viewer.html
 
 ## Authors
